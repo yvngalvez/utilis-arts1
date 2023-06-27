@@ -3,7 +3,7 @@ title: "Yveca Collection: Prototype"
 excerpt: Locally sourced and manufactured faux-leather shoe and bag prototype. Based on *Yveca* collection sketches.
 
 header:
-  teaser: /assets/images/exhibit/yveca/31.PNG
+  teaser: /assets/images/exhibit/yveca/31.png
 
 gallery:
   - url: /assets/images/exhibit/yveca/28.png

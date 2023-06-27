@@ -3,7 +3,7 @@ title: "Naturalizer: Shoes and Bag Set"
 excerpt: "Design sketches for shoe and bag product design"
 
 header:
-  teaser: /assets/images/exhibit/fshndes/01.PNG
+  teaser: /assets/images/exhibit/fshndes/01.png
 
 gallery:
   - url: /assets/images/exhibit/fshndes/02.png
@@ -26,4 +26,4 @@ Design sketches below show a glimpse of the rigorous selection process on which 
 ***Medium: Digital Art (Procreate)***
 
 This heel was inspired by the astonishing beauty of the diwata Maria Makiling along with the abundant vegetation present in the mountains. It is imagined to be used in wedding occasions where the sincere and purest love blossoms.
-{% include figure image_path="/assets/images/exhibit/fshndes/mmk_wed_sh.png" alt="03" caption="<i>Maria Makiling</i> wedding shoe concept design. © Brianna Vibar 2023" %}
+{% include figure image_path="/assets/images/exhibit/fshndes/mmk_wed_sh.PNG" alt="03" caption="<i>Maria Makiling</i> wedding shoe concept design. © Brianna Vibar 2023" %}
